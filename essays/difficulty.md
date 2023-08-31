@@ -6,14 +6,14 @@ title: "Why Take ITM 352?"
 date: 2023-08-26
 published: true
 labels:
-  - Engineering
+  - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+*I am excited and nervous to take this class.*
+
+It is essential in the tech industry to have a base knowledge of computer programming. 
 
 Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
 
