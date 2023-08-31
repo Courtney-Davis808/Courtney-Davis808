@@ -8,47 +8,19 @@ published: true
 labels:
   - Computer Science
 ---
-
-
-
 *I am excited and nervous to take this class.*
 
-It is essential in the tech industry to have a base knowledge of computer programming. 
+I am taking ITM 352 because it aligns perfectly with my academic and career goals, providing me with a strong foundation in programming and software development concepts, which are essential in today's technology-driven world.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Firstly, the course aims to familiarize students with basic programming principles. In a rapidly evolving technological landscape, understanding how to code is no longer a specialized skill; it's a necessity. Whether one's background is in IT or not, acquiring rudimentary programming skills, as emphasized in ITM 352, is crucial. This course acknowledges that everyone can learn these skills and provides a supportive environment for doing so.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Secondly, ITM 352 introduces students to development environments, such as Integrated Development Environments (IDEs). These tools are fundamental for any aspiring programmer. They streamline the development process, making it more efficient and organized. Gaining proficiency in using IDEs will not only be beneficial in this course but will also serve me well throughout my ITM major and in my future career.
 
-Here's what I think: the difficult things will always be difficult.
+Furthermore, the course's emphasis on planning, designing, programming, documenting, and testing web-based e-service applications reflects the comprehensive nature of modern software development. These are skills and strategies that are highly transferable and will be invaluable as I progress in my ITM studies and eventually enter the workforce.
 
-## In the context of programming
+Lastly, ITM 352 offers hands-on experience in introductory-level programming, which is essential for building a strong foundation. Learning by doing is often the most effective way to acquire knowledge, and this course provides ample opportunities for practical application.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## To Conclude....
+In conclusion, I am taking ITM 352 because it equips me with the skills and knowledge necessary for success in the ITM field. It aligns perfectly with my academic and career aspirations, and I am excited to embark on this journey of exploration and learning.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
